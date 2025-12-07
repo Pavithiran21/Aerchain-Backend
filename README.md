@@ -30,7 +30,6 @@ Node.js + Express REST API with AI-powered task parsing using Google Gemini.
    Create `.env` file:
    ```env
    MONGODB_URI=your_mongodb_connection_string
-   MONGODB_NAME=your_database_name
    GEMINI_API_KEY=your_gemini_api_key
    PORT=3000
    ```
